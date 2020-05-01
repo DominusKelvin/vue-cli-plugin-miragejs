@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-miragejs",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add Mirage JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominusKelvin/vue-cli-plugin-miragejs.git"
+  },
+  "bugs": "https://github.com/DominusKelvin/vue-cli-plugin-miragejs/issues",
+  "keywords": [
+    "vue",
+    "cli",
+    "vue-cli",
+    "miragejs",
+    "mirage"
+  ],
+  "author": "Kelvin Omereshone <kelvinomereshone@gmail.com> (https://twitter.com/dominus_kelvin)",
+  "license": "MIT"
+}
