@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-miragejs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "vue-cli plugin to add Mirage JS",
   "main": "index.js",
   "scripts": {
