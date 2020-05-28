@@ -1,7 +1,7 @@
 module.exports = (api, options) => {
   api.extendPackage({
     devDependencies: {
-      miragejs: "^0.1.38",
+      miragejs: "^0.1.40",
     },
   });
 
